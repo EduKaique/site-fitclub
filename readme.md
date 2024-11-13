@@ -2,6 +2,8 @@
 
 Este projeto foi desenvolvido como parte de um teste para uma vaga de estágio em desenvolvimento front-end. O objetivo foi criar um site responsivo utilizando HTML, CSS, JavaScript e Bootstrap, incluindo duas animações, sendo uma delas ativada durante o scroll da página.
 
+![Banner do Site](/images/banner-site-readme.png)
+
 ## Tecnologias Utilizadas
 
 - **HTML5**: Estruturação do conteúdo da página.
